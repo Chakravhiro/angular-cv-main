@@ -9,4 +9,4 @@ I hate using MS word, and the online tools for CV making are very restrictive, s
 
 ## Credits
 
-Angular for the framework, Bootstrap for making responsiveness easy, fontawsome for icons, kickresume for colour inspiration and cv tips,  https://www.photoshopsupply.com/ for their free 'subtle patterns'
+Angular for the framework, Bootstrap for making responsiveness easy, fontawsome for icons, kickresume for colour inspiration and cv tips,  
